@@ -16,6 +16,7 @@
 PRODUCT_PACKAGES := \
     ducati-m3 \
     gps.omap4 \
+    gralloc.omap4 \
     sirfgps \
     fw_bcmdhd \
     fw_bcmdhd_apsta \
@@ -29,6 +30,7 @@ PRODUCT_PACKAGES := \
     mms144_ts_rev31 \
     mms144_ts_rev32 \
     smc_normal_world_android_cfg \
+    libaah_rtp \
     smc_pa_wvdrm
     
     

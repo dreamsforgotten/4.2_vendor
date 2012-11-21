@@ -24,4 +24,5 @@ PRODUCT_PACKAGES := \
     libsyncml_core \
     libsyncml_port \
     lib_gsd4t \
-    libsec-ril_lte
+    libsec-ril_lte \
+    com.samsung.device
