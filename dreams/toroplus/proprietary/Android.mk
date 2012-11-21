@@ -47,16 +47,6 @@ LOCAL_MODULE_PATH := $(TARGET_OUT_VENDOR)/lib/hw
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := gralloc.omap4
-LOCAL_MODULE_OWNER := samsung
-LOCAL_SRC_FILES := gralloc.omap4.so
-LOCAL_MODULE_TAGS := optional
-LOCAL_MODULE_SUFFIX := .so
-LOCAL_MODULE_CLASS := SHARED_LIBRARIES
-LOCAL_MODULE_PATH := $(TARGET_OUT_VENDOR)/lib/hw
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
 LOCAL_MODULE := fw_bcmdhd
 LOCAL_MODULE_OWNER := samsung
 LOCAL_SRC_FILES := fw_bcmdhd.bin

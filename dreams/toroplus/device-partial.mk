@@ -16,7 +16,6 @@
 PRODUCT_PACKAGES := \
     ducati-m3 \
     gps.omap4 \
-    gralloc.omap4 \
     sirfgps \
     fw_bcmdhd \
     fw_bcmdhd_apsta \
